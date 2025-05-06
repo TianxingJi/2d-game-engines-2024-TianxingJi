@@ -1,0 +1,17 @@
+How to play the game:
+
+1. Start Game
+1.1 When you run the program, a title screen will be shown. There are two buttons (as usual!). Click the "Play" button to start the rough Nin start version!
+
+2. Control Logic
+2.1 AD keys are used to move the little "knight." Meanwhile, W key is used to jump. (But jumping here has a buffer time and you must jump when you on the platform.)
+
+2.2 On the left upper corner, you can see a "Back" button. Press it and then you can get back to the title screen (as usual).
+
+3. Game Task
+3.1 Have not decided yet.
+
+4. Exit Game
+4.1 Press "ESCAPE" key to exit game any time.
+
+4.2 Or at the start of the game, click "Quit" button shown in the title screen to exit the game.

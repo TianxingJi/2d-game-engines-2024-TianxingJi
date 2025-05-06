@@ -1,0 +1,17 @@
+How to play the game:
+
+1. Start Game
+1.1 When you run the program, a title screen will be shown. There are three buttons. Click the "Play" button to start or continue your previous saved game with "Continue" button.
+
+2. Control Logic
+2.1 AD keys are used to move the little "knight." Meanwhile, W key is used to jump and Space key is used to shoot. (But jumping here has a buffer time and you must jump when you on the platform.) Moreover, if you dislike this moving logic, this can be changed after pressing "Controls" button shown in the "menu screen."
+
+2.2 On the left upper corner, you can see a "Menu" button. Press it and then you can go to the "menu screen." There are seven options: 1. 'Controls' for changing attack and jump keys. 2. 'Volume' for changing volume but the music component has not been implemented here. 3. 'Restart' for starting a new game. 4. 'Save' for saving a game. 5. "Load" for loading a game. 6. 'Title Screen' for backing to the "title screen." 7. 'Quit' for shutting down the app.
+
+3. Game Task
+3.1 Find the exit point, which is a 'water plus lotus' tile picture.
+
+4. Exit Game
+4.1 Press "ESCAPE" key to exit game any time.
+
+4.2 Or at the start of the game, click "Quit" button shown in the "title screen" and "menu screen" to exit the game.
