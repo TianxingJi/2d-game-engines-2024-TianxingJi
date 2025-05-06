@@ -1,1 +1,1 @@
-
+This is the 2D game engine I wrote during the learning progress of CSCI 1950N, which is a fun course with nice TAs. And I implemented many fun components in this course and use them to implement my own games.
